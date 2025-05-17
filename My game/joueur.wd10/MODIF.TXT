@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Fiche_joueur		TAR	129	nouvelle taille enregistrement : 129
+Fiche_joueur		IDE+*		fichier avec identifiant
+Fiche_joueur	IDFiche_joueur	RUB+		IDFiche_joueur est une nouvelle clé
+Fiche_joueur	Nom	CLE-*		la rubrique Nom n'est plus une clé

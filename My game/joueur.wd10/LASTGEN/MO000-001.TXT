@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Fiche_joueur		NFI		nouveau fichier
+Fiche_joueur		FRN		
+Fiche_joueur	Nom	RRN		

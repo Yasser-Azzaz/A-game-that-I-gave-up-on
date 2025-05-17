@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Fiche_joueur		TAR	129	nouvelle taille enregistrement : 129
+Fiche_joueur	Score	RUB+		Score est une nouvelle rubrique
